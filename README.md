@@ -1,5 +1,4 @@
-**# Giovane Trevisan
-
+# Giovane Trevisan
 **`Desenvolvedor Back-End`**
 
 Sou estudante de Engenharia de Software (7º período), apaixonado por tecnologia, criatividade e inovação. Busco constantemente aprender e aprimorar minhas habilidades em desenvolvimento de software e o que for necessário para ter uma carreira de sucesso.
@@ -16,19 +15,19 @@ Sou estudante de Engenharia de Software (7º período), apaixonado por tecnologi
 />
 <img 
     align="left" 
-    alt="Flask"
-    title="Flask" 
+    alt="Node.js"
+    title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="Go"
-    title="GO" 
+    alt="React"
+    title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -55,12 +54,4 @@ Sou estudante de Engenharia de Software (7º período), apaixonado por tecnologi
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
 />
 
-
 <br/>
-<br/>
-
-
-
-
-</p>
-**
