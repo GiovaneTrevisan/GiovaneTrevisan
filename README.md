@@ -1,4 +1,4 @@
-# Giovane Trevisan
+**# Giovane Trevisan
 
 **`Desenvolvedor Back-End`**
 
@@ -63,3 +63,4 @@ Sou estudante de Engenharia de Software (7º período), apaixonado por tecnologi
 
 
 </p>
+**
