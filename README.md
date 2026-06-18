@@ -1,7 +1,9 @@
 # Giovane Trevisan
-**`Desenvolvedor de Software`**
+**`Desenvolvedor Back-End`**
 
 Sou estudante de Engenharia de Software (7º período), apaixonado por tecnologia, criatividade e inovação. Busco constantemente aprender e aprimorar minhas habilidades em desenvolvimento de software e o que for necessário para ter uma carreira de sucesso.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO/)
 
 ###  Linguagens e Tecnologias
 
@@ -54,4 +56,11 @@ Sou estudante de Engenharia de Software (7º período), apaixonado por tecnologi
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
 />
 
-<br/>
+<br clear="left"/>
+
+
+###  Projetos em Destaque
+
+**Plataforma de Gestão de Projetos com Integração ao GitHub (TCC)**  
+Plataforma web para gestão de projetos de software com integração automática ao GitHub via API REST e webhooks, vinculando commits e pull requests às tarefas. Back-end em Node.js e front-end em React/TypeScript. Projeto desenvolvido em equipe.
+- [Back-end](https://github.com/LuisGontarski/Ferramenta-Backend) · [Front-end](https://github.com/LuisGontarski/Ferramenta-Frontend)
