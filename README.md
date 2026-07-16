@@ -1,5 +1,5 @@
 # Giovane Trevisan
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor de Software`**
 
 Sou estudante de Engenharia de Software (7º período), apaixonado por tecnologia, criatividade e inovação. Busco constantemente aprender e aprimorar minhas habilidades em desenvolvimento de software e o que for necessário para ter uma carreira de sucesso.
 
